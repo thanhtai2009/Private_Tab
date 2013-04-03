@@ -60,5 +60,15 @@
 			</Description>
 		</em:localized>
 		
+			<em:localized>
+			<Description>
+				<em:locale>vi</em:locale>
+				<em:name>Thẻ riêng tư</em:name>
+				<em:description>Thêm thẻ riêng tư</em:description>
+				<em:creator>Infocatcher</em:creator>
+				<em:translator>thanhtai2009</em:translator>
+			</Description>
+		</em:localized>
+		
 	</Description>
 </RDF>
